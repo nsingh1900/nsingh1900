@@ -57,9 +57,10 @@ With over 6 years of hands-on experience in financial operations and public sect
 > "Where others see data, I see stories waiting to be told."
 
 Thanks for stopping by!
-— *Neeta Singh*
+— *Neeta*
 
 © 2025 Neeta Singh | Business Data Analyst
+
 
 
 
