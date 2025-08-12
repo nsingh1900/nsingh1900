@@ -54,12 +54,13 @@ With over 14 years of hands-on experience in financial operations and public sec
 * Portfolio: [https://neeta-portfolio.vercel.app/](https://neeta-portfolio.vercel.app/)
 
 
-> "Where others see data, I see stories waiting to be told."
+> "Successful is the one whose state of mind is powerful, happy and peaceful."
 
 Thanks for stopping by!
 — *Neeta*
 
 © 2025 Neeta Singh | Business Data Analyst
+
 
 
 
