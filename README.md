@@ -9,7 +9,7 @@
 
 ## About Me
 
-With over 6 years of hands-on experience in financial operations and public sector HR systems, I’m a business data analyst passionate about turning complexity into clarity. From optimizing Power BI dashboards for California’s judiciary to generating bond waterfall reports for major loan portfolios, I bring a sharp eye for patterns and a drive to make data actionable. Whether it’s streamlining HR reporting or ensuring investor compliance, I thrive where data meets impact.
+With over 14 years of hands-on experience in financial operations and public sector HR systems, I’m a business data analyst passionate about turning complexity into clarity. From optimizing Power BI dashboards for California’s judiciary to generating bond waterfall reports for major loan portfolios, I bring a sharp eye for patterns and a drive to make data actionable. Whether it’s streamlining HR reporting or ensuring investor compliance, I thrive where data meets impact.
 
 ---
 
@@ -60,6 +60,7 @@ Thanks for stopping by!
 — *Neeta*
 
 © 2025 Neeta Singh | Business Data Analyst
+
 
 
 
