@@ -3,7 +3,7 @@
 🎯 **Business Data Analyst**
 📍 Based in California | Open to Remote Opportunities 
 
-💼 6+ Years of Experience | Power BI • Tableau • SQL • Python • Excel • ML
+💼 14+ Years of Experience | Power BI • Tableau • SQL • Python • Excel • ML
 
 ---
 
@@ -60,5 +60,6 @@ Thanks for stopping by!
 — *Neeta Singh*
 
 © 2025 Neeta Singh | Business Data Analyst
+
 
 
