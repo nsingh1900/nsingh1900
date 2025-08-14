@@ -16,7 +16,7 @@ With over 14 years of hands-on experience in financial operations and public sec
 ## Career Highlights
 
 * Generated **bond waterfall reports** for large-scale loan portfolios
-* Developed **Power BI dashboards** to manage California judiciary HR data
+* Developed **Power BI dashboards** to manage California Judiciary data
 * Delivered **Tableau dashboards** tracking workforce attrition trends
 * Analyzed **App Store metrics** with SQL for product strategy insights
 * Identified sales patterns during festivals using Python & pandas
@@ -40,10 +40,10 @@ With over 14 years of hands-on experience in financial operations and public sec
 ## Tools & Expertise
 
 * **BI Tools:** Power BI · Tableau · Excel
-* **Languages:** SQL · Python (pandas, NumPy, matplotlib)
+* **Languages:** SQL · Python (pandas, NumPy, matplotlib, seaborn)
 * **ML Frameworks:** Scikit-learn · Decision Trees · SVM
 * **Foundational Skills:** Data Cleaning · Modeling · Dashboard Design · Storytelling
-* **Work Style:** Remote collaboration · Agile processes · Strong communicator
+* **Work Style:** Remote collaboration · Agile processes · Strong Communicator
 
 ---
 
@@ -60,6 +60,7 @@ Thanks for stopping by!
 — *Neeta*
 
 © 2025 Neeta Singh | Business Data Analyst
+
 
 
 
