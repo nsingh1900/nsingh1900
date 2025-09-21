@@ -1,69 +1,56 @@
-# 👋 Hi there, I'm Neeta Singh
+# Hi there, I'm Neeta 
 
-🎯 **Business Data Analyst**
-📍 Based in California | Open to Remote Opportunities 
+🎯 **Senior Business & Technology Systems Leader**  
+📍 Based in California | Open to Hybrid & Remote Opportunities  
 
-💼 14+ Years of Experience | Power BI • Tableau • SQL • Python • Excel • ML
+💼 14+ Years of Experience | Power BI • Tableau • SQL • Python • Excel • Cloud & HRIS Solutions  
 
 ---
 
 ## About Me
 
-With over 14 years of hands-on experience in financial operations and public sector HR systems, I’m a business data analyst passionate about turning complexity into clarity. From optimizing Power BI dashboards for California’s judiciary to generating bond waterfall reports for major loan portfolios, I bring a sharp eye for patterns and a drive to make data actionable. Whether it’s streamlining HR reporting or ensuring investor compliance, I thrive where data meets impact.
+With over 14 years of experience driving enterprise analytics, HRIS systems, and financial operations, I help organizations transform data into actionable insights. I specialize in delivering solutions that streamline reporting, improve operational efficiency, and support executive decision-making. From leading Power BI implementations for California’s judiciary to building enterprise-level bond reporting systems for major loan portfolios, I focus on turning complexity into clarity and strategy into measurable impact.  
+
+I thrive at the intersection of business and technology—aligning cross-functional teams, mentoring analysts, and delivering scalable solutions that drive results.  
 
 ---
 
 ## Career Highlights
 
-* Generated **bond waterfall reports** for large-scale loan portfolios
-* Developed **Power BI dashboards** to manage California Judiciary data
-* Delivered **Tableau dashboards** tracking workforce attrition trends
-* Analyzed **App Store metrics** with SQL for product strategy insights
-* Identified sales patterns during festivals using Python & pandas
-* Built **machine learning models** like classification trees for heart disease risk
+* Led **enterprise-level HRIS & financial reporting projects** across public sector and financial services organizations  
+* Designed **Power BI dashboards and Tableau reports** to provide executive insights and operational intelligence  
+* Built **data pipelines and ad hoc reporting frameworks** to ensure accuracy, compliance, and scalability  
+* Applied **predictive analytics and ML models** for workforce planning, sales trends, and health risk insights  
+* Mentored teams in **data governance, reporting standards, and BI best practices**  
+* Optimized **workflow automation** to reduce manual reporting by 40% and increase operational efficiency  
 
 ---
 
 ## Key Projects
 
-| Project                           | Tool              | Description                                                    |
-| --------------------------------- | ----------------- | -------------------------------------------------------------- |
-| **HCM Turnover Analysis**         | Power BI          | Visualizing employee attrition by department, tenure, and role |
-| **LegalCore Workforce Dashboard** | Tableau           | Trends in job level, exit reasons, tenure across departments   |
-| **Apple Store Insights**          | SQL               | Analyzed genre popularity, pricing, user rating trends         |
-| **Festive Sales Trends**          | Python            | Charted behavior and revenue shifts during festive seasons     |
-| **Heart Disease Prediction**      | ML / Scikit-learn | Classification model to predict heart disease risk             |
-| **Hotel Booking Analysis**        | Excel             | PivotTables and slicers for booking patterns and cancellations |
+| Project                           | Tool              | Description                                                                 |
+| --------------------------------- | ----------------- | --------------------------------------------------------------------------- |
+| **HCM Turnover Analysis**         | Power BI          | Delivered actionable workforce insights across departments, tenure, and role |
+| **LegalCore Workforce Dashboard** | Tableau           | Tracked attrition, tenure, and departmental trends to support leadership decisions |
+| **Apple Store Insights**          | SQL               | Conducted data analysis to inform product strategy and business planning     |
+| **Festive Sales Trends**          | Python            | Modeled seasonal sales patterns and revenue shifts to guide marketing strategy |
+| **Heart Disease Prediction**      | ML / Scikit-learn | Developed predictive models to assess risk and inform healthcare decision-making |
+| **Hotel Booking Analysis**        | Excel             | Designed enterprise-level dashboards to optimize occupancy and cancellation management |
 
 ---
 
 ## Tools & Expertise
 
-* **BI Tools:** Power BI · Tableau · Excel
-* **Languages:** SQL · Python (pandas, NumPy, matplotlib, seaborn)
-* **ML Frameworks:** Scikit-learn · Decision Trees · SVM
-* **Foundational Skills:** Data Cleaning · Modeling · Dashboard Design · Storytelling
-* **Work Style:** Remote collaboration · Agile processes · Strong Communicator
+* **BI & Reporting:** Power BI · Tableau · Excel · SQRs & Ad Hoc Queries  
+* **Data & Programming:** SQL · Python (pandas, NumPy, matplotlib, seaborn) · ML Frameworks (Scikit-learn, Decision Trees, SVM)  
+* **Enterprise Systems:** PeopleSoft HCM · HRIS · Cloud Integrations · Data Pipelines  
+* **Leadership & Strategy:** Process Optimization · Team Mentoring · Stakeholder Management · Agile & PMO Methodologies  
+* **Work Style:** Remote/Hybrid Collaboration · Strategic Problem Solving · Effective Communication  
 
 ---
 
 ## Let's Connect
 
-* Email: [neeta1982@gmail.com](mailto:neeta1982@gmail.com)
-* LinkedIn: [nsingh1900](https://www.linkedin.com/in/nsingh1900)
-* Portfolio: [https://neeta-portfolio.vercel.app/](https://neeta-portfolio.vercel.app/)
-
-
-> "Successful is the one whose state of mind is powerful, happy and peaceful."
-
-Thanks for stopping by!
-— *Neeta*
-
-© 2025 Neeta Singh | Business Data Analyst
-
-
-
-
-
-
-
+* Email: [neeta1982@gmail.com](mailto:neeta1982@gmail.com)  
+* LinkedIn: [nsingh1900](https://www.linkedin.com/in/nsingh1900)  
+* Portfolio: [https://neeta-portfolio.vercel.app/](https://neeta-por)*
